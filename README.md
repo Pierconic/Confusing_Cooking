@@ -1,0 +1,1 @@
+It's a cooking mod. Use food to craft various meals at the Cooking Table, and eat a varied diet to get benefits from good nutrition. Also adds a couple new plants, namely corn, rice, a couple new ancient seeds. Essentially intended to discourage eating golden carrots and literally nothing else.
