@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/cheese4",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/cheesemapping4",
+    "particle": "cooking_with_mindthemoods:block/moldycheesewheel",
+    "0": "cooking_with_mindthemoods:block/cheesemapping4"
+  },
+  "render_type": "solid"
+}

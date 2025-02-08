@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stick",
+    "minecraft:bowl",
+    "minecraft:wheat",
+    "minecraft:bread",
+    "minecraft:dried_kelp",
+    "minecraft:cod",
+    "minecraft:salmon",
+    "minecraft:tropical_fish",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_chicken"
+  ]
+}

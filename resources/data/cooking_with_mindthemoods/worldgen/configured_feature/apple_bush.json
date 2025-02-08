@@ -1,0 +1,67 @@
+{
+  "type": "cooking_with_mindthemoods:apple_bush",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "cooking_with_mindthemoods:structure_feature",
+          "config": {
+            "structure": "cooking_with_mindthemoods:apple_bush_1",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "cooking_with_mindthemoods:structure_feature",
+          "config": {
+            "structure": "cooking_with_mindthemoods:apple_bush_2",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "cooking_with_mindthemoods:structure_feature",
+          "config": {
+            "structure": "cooking_with_mindthemoods:apple_bush_3",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "cooking_with_mindthemoods:structure_feature",
+          "config": {
+            "structure": "cooking_with_mindthemoods:apple_bush_4",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "cooking_with_mindthemoods:structure_feature",
+          "config": {
+            "structure": "cooking_with_mindthemoods:apple_bush_5",
+            "random_rotation": true,
+            "random_mirror": true,
+            "ignored_blocks": "minecraft:structure_block"
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

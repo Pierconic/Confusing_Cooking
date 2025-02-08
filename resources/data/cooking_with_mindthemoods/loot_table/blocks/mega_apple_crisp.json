@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cooking_with_mindthemoods:blocks/mega_apple_crisp",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cooking_with_mindthemoods:apple_crisp",
+          "functions": [
+            {
+              "count": 5,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

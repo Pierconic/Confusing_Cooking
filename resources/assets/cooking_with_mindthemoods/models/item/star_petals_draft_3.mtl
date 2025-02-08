@@ -1,0 +1,27 @@
+newmtl m_452dfa77-877a-f6c5-7bd7-1c9eabf74692
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd cooking_with_mindthemoods:block/
+Ns 100.0
+d 1.0
+newmtl m_65f6f4dd-f9f2-324f-2224-420b69da4f5f
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd cooking_with_mindthemoods:block/
+Ns 100.0
+d 1.0
+newmtl m_54afa680-e958-69ce-31c3-490dac9cc628
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd cooking_with_mindthemoods:block/
+Ns 100.0
+d 1.0
+newmtl none
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 100.0
+d 1.0

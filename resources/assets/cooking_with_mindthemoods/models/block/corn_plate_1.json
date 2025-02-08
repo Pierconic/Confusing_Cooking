@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/cornplate1",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/cornplatetexture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "0": "cooking_with_mindthemoods:block/cornplatetexture"
+  },
+  "render_type": "solid"
+}

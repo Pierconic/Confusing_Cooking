@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/flesh_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/flesh_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/flesh_texture"
+  },
+  "render_type": "solid"
+}

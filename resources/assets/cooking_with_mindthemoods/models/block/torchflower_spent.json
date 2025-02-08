@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cooking_with_mindthemoods:block/torchfoloweropen4",
+    "particle": "cooking_with_mindthemoods:block/torchfoloweropen4"
+  },
+  "render_type": "cutout_mipped"
+}

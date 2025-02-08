@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "cooking_with_mindthemoods:item/tempbottomtexture"
+  }
+}

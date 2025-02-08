@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beetroot_soup",
+    "minecraft:mushroom_stew",
+    "cooking_with_mindthemoods:veggie_sandwich",
+    "cooking_with_mindthemoods:super_veggie_sandwich",
+    "cooking_with_mindthemoods:veggie_skewer",
+    "cooking_with_mindthemoods:veggie_taco"
+  ]
+}

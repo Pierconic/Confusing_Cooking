@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/meat_model_1_steak_raw",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/raw_beef_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/raw_beef_texture"
+  },
+  "render_type": "solid"
+}

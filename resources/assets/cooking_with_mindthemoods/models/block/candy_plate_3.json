@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/hard_candy_model_3",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/hard_candy_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/hard_candy_texture"
+  },
+  "render_type": "solid"
+}

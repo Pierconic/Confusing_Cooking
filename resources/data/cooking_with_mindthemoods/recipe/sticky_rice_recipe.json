@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cooking_with_mindthemoods:rice"
+    },
+    "b": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "id": "cooking_with_mindthemoods:sticky_rice",
+    "count": 1
+  }
+}

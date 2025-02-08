@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/veggietacoplate",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/veggietacotexture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "0": "cooking_with_mindthemoods:block/veggietacotexture"
+  },
+  "render_type": "solid"
+}

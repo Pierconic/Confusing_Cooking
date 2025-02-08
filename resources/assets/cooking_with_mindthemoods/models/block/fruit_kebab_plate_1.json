@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/kebab_model_fruit_1",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/kebab_texture_fruity",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/kebab_texture_fruity"
+  },
+  "render_type": "solid"
+}

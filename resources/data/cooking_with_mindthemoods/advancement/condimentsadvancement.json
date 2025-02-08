@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "cooking_with_mindthemoods:sweetberryjam"
+    },
+    "title": {
+      "translate": "advancements.condimentsadvancement.title"
+    },
+    "description": {
+      "translate": "advancements.condimentsadvancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "condimentsadvancement_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "cooking_with_mindthemoods:cooking"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "river",
+    "swamp",
+    "mangrove_swamp"
+  ],
+  "features": "cooking_with_mindthemoods:riverrice_feature",
+  "step": "surface_structures"
+}

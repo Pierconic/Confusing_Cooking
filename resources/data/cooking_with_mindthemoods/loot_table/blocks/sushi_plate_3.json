@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cooking_with_mindthemoods:blocks/sushi_plate_3",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cooking_with_mindthemoods:single_sushi",
+          "functions": [
+            {
+              "count": 3,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

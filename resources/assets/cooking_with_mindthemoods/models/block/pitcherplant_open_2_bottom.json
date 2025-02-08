@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cooking_with_mindthemoods:block/pitcherplantopen2l",
+    "particle": "cooking_with_mindthemoods:block/pitcherplantopen2u"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:honey_bottle",
+    "cooking_with_mindthemoods:chocolate",
+    "minecraft:cookie",
+    "minecraft:pumpkin_pie",
+    "cooking_with_mindthemoods:sticky_rice",
+    "cooking_with_mindthemoods:nut_bar"
+  ]
+}

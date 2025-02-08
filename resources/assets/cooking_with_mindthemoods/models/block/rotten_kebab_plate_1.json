@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/kebab_model_rotten_1",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/kebab_texture_rotten",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/kebab_texture_rotten"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:rotten_flesh",
+    "minecraft:pufferfish",
+    "minecraft:poisonous_potato",
+    "minecraft:spider_eye",
+    "minecraft:chicken",
+    "minecraft:fermented_spider_eye",
+    "minecraft:slime_ball",
+    "minecraft:ink_sac",
+    "minecraft:glow_ink_sac"
+  ]
+}

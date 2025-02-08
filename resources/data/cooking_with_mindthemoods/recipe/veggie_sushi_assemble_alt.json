@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cooking_with_mindthemoods:single_veggie_sushi"
+    },
+    {
+      "item": "cooking_with_mindthemoods:double_veggie_sushi"
+    }
+  ],
+  "result": {
+    "id": "cooking_with_mindthemoods:tripple_veggie_sushi",
+    "count": 1
+  }
+}

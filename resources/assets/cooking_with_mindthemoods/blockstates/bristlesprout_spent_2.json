@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cooking_with_mindthemoods:block/bristlesprout_spent_2"
+    },
+    "half=lower": {
+      "model": "cooking_with_mindthemoods:block/bristlesprout_spent_2_bottom"
+    }
+  }
+}

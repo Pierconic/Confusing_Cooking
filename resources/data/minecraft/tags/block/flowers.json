@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "cooking_with_mindthemoods:apple_blossoms_stage_1",
+    "cooking_with_mindthemoods:apple_blossoms_stage_2",
+    "cooking_with_mindthemoods:apple_blossoms_stage_3",
+    "minecraft:flowering_azalea_leaves",
+    "minecraft:dandelion",
+    "minecraft:poppy",
+    "minecraft:blue_orchid",
+    "minecraft:allium",
+    "minecraft:azure_bluet",
+    "minecraft:red_tulip",
+    "minecraft:orange_tulip",
+    "minecraft:white_tulip",
+    "minecraft:pink_tulip",
+    "minecraft:oxeye_daisy",
+    "minecraft:cornflower",
+    "minecraft:lily_of_the_valley",
+    "minecraft:wither_rose",
+    "minecraft:sunflower",
+    "minecraft:lilac",
+    "minecraft:rose_bush",
+    "minecraft:peony",
+    "minecraft:spore_blossom",
+    "minecraft:flowering_azalea"
+  ]
+}

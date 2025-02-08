@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/fishtacoplate",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/fishtacotexture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "0": "cooking_with_mindthemoods:block/fishtacotexture"
+  },
+  "render_type": "solid"
+}

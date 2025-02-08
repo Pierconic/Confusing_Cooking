@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:carrot",
+    "cooking_with_mindthemoods:carrot_bread",
+    "minecraft:potato",
+    "minecraft:baked_potato",
+    "minecraft:beetroot",
+    "minecraft:bread",
+    "cooking_with_mindthemoods:veggie_skewer",
+    "cooking_with_mindthemoods:stuffed_mushrooms",
+    "cooking_with_mindthemoods:loaded_potato",
+    "cooking_with_mindthemoods:veggie_sandwich",
+    "cooking_with_mindthemoods:super_veggie_sandwich",
+    "cooking_with_mindthemoods:veggie_taco"
+  ]
+}

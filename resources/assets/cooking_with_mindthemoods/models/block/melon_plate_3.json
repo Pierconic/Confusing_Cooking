@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/melon_model_3",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/melon_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/melon_texture"
+  },
+  "render_type": "solid"
+}

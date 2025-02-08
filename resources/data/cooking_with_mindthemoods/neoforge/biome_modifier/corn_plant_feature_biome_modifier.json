@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna"
+  ],
+  "features": "cooking_with_mindthemoods:corn_plant_feature",
+  "step": "surface_structures"
+}

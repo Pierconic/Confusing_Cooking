@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "cooking_with_mindthemoods:block/ricetop",
+    "particle": "cooking_with_mindthemoods:block/pixil-frame-3"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/super_chocolate_bread_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/super_chocolate_bread_texture",
+    "particle": "cooking_with_mindthemoods:block/super_chocolate_bread_texture",
+    "missing": "cooking_with_mindthemoods:block/super_chocolate_bread_texture"
+  },
+  "render_type": "solid"
+}

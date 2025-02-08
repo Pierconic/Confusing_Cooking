@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cooking_with_mindthemoods:block/starcropmature",
+    "particle": "cooking_with_mindthemoods:block/starcropmature"
+  },
+  "render_type": "cutout_mipped"
+}

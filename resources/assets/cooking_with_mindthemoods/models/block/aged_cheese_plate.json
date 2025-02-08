@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/cheese_model_aged",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/cheese_texture_2",
+    "particle": "cooking_with_mindthemoods:block/cheese_texture_2",
+    "missing": "cooking_with_mindthemoods:block/cheese_texture_2"
+  },
+  "render_type": "solid"
+}

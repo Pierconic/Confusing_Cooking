@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/super_carrot_bread_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/carrot_bread_deluxe_texture",
+    "particle": "cooking_with_mindthemoods:block/carrot_bread_deluxe_texture",
+    "missing": "cooking_with_mindthemoods:block/carrot_bread_deluxe_texture"
+  },
+  "render_type": "solid"
+}

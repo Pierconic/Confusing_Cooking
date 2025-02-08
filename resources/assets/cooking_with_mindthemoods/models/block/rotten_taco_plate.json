@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/rottentacoplate",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/rottentacotexture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "0": "cooking_with_mindthemoods:block/rottentacotexture"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/melon_model_2_shiny",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/glistering_melon_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/glistering_melon_texture"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cooking_with_mindthemoods:blocks/pitcherplant_open_2",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pitcher_pod",
+          "conditions": [
+            {
+              "block": "cooking_with_mindthemoods:pitcherplant_open_2",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

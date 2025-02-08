@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/fish_model_2_salmon_cooked",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/cooked_salmon_texture",
+    "particle": "cooking_with_mindthemoods:block/cooked_salmon_texture",
+    "missing": "cooking_with_mindthemoods:block/cooked_salmon_texture"
+  },
+  "render_type": "solid"
+}

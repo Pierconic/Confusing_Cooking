@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/meattacoplate",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/meattacotexture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "0": "cooking_with_mindthemoods:block/meattacotexture"
+  },
+  "render_type": "solid"
+}

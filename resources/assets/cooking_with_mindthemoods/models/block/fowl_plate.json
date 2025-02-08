@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/fowl_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/fowl_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/fowl_texture"
+  },
+  "render_type": "solid"
+}

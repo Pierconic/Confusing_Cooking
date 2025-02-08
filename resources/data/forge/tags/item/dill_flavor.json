@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon",
+    "minecraft:cod",
+    "minecraft:salmon",
+    "minecraft:bread",
+    "minecraft:tropical_fish",
+    "cooking_with_mindthemoods:seafood_dinner",
+    "cooking_with_mindthemoods:fish_skewer",
+    "cooking_with_mindthemoods:fish_sandwich",
+    "cooking_with_mindthemoods:super_fish_sandwich",
+    "cooking_with_mindthemoods:fish_taco"
+  ]
+}

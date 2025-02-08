@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cooking_with_mindthemoods:blocks/rice_bottom_stage_1",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cooking_with_mindthemoods:rice"
+        }
+      ]
+    }
+  ]
+}

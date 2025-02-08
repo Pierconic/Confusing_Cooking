@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "superiorstructures:porcelain_tile"
+    },
+    "1": {
+      "item": "superiorstructures:porcelain_tile"
+    },
+    "2": {
+      "item": "superiorstructures:porcelain_tile"
+    }
+  },
+  "result": {
+    "item": "cooking_with_mindthemoods:porcelain_plate",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/apple_crisp",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/applecrisp",
+    "particle": "cooking_with_mindthemoods:block/applecrisp",
+    "1": "cooking_with_mindthemoods:block/applecrisp"
+  },
+  "render_type": "solid"
+}

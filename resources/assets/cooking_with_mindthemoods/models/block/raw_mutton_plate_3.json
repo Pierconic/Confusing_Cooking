@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/mutton_model_3_raw",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/raw_mutton_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/raw_mutton_texture"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cooking_with_mindthemoods:triple_fish_sushi"
+    }
+  ],
+  "result": {
+    "id": "cooking_with_mindthemoods:single_fish_sushi",
+    "count": 3
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/berry_model_2",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/sweet_berry_texture",
+    "particle": "cooking_with_mindthemoods:block/sweet_berry_texture",
+    "missing": "cooking_with_mindthemoods:block/sweet_berry_texture"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/cookie_model_5",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/cookie_texture",
+    "particle": "cooking_with_mindthemoods:block/cookie_texture",
+    "0": "cooking_with_mindthemoods:block/cookie_texture"
+  },
+  "render_type": "solid"
+}

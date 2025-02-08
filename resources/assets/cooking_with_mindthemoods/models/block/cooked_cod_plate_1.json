@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/fish_model_1_cod_cooked",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/cod_texture",
+    "particle": "cooking_with_mindthemoods:block/cod_texture",
+    "missing": "cooking_with_mindthemoods:block/cooked_cod_texture"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/seafood_dinner",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/seafood_dinner",
+    "particle": "cooking_with_mindthemoods:block/bread_texture",
+    "missing": "cooking_with_mindthemoods:block/seafood_dinner"
+  },
+  "render_type": "solid"
+}

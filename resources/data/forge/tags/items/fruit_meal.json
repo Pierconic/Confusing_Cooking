@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cooking_with_mindthemoods:sweetbread",
+    "cooking_with_mindthemoods:extrasweetbread",
+    "cooking_with_mindthemoods:simmered_fruit",
+    "cooking_with_mindthemoods:fruit_skewer",
+    "cooking_with_mindthemoods:strange_stew",
+    "cooking_with_mindthemoods:strange_skewer"
+  ]
+}

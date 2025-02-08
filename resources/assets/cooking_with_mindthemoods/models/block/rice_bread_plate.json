@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/bread_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/bread_rice_texture",
+    "particle": "cooking_with_mindthemoods:block/bread_rice_texture",
+    "missing": "cooking_with_mindthemoods:block/bread_texture"
+  },
+  "render_type": "solid"
+}

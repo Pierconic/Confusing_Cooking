@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/beetroot_model_1",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/beetroot_texture",
+    "particle": "cooking_with_mindthemoods:block/beetroot_texture",
+    "missing": "cooking_with_mindthemoods:block/beetroot_texture"
+  },
+  "render_type": "solid"
+}

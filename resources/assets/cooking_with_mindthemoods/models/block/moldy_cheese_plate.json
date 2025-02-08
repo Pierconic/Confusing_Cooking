@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/cheese_model_moldy",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/cheese_texture_4",
+    "particle": "cooking_with_mindthemoods:block/cheese_texture_4",
+    "missing": "cooking_with_mindthemoods:block/cheese_texture_4"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/chicken_dinner_munched",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/chicken_dinner_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/chicken_dinner_texture"
+  },
+  "render_type": "solid"
+}

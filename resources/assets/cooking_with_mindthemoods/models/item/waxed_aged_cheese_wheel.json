@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cooking_with_mindthemoods:item/agedcheesewheel"
+  },
+  "render_type": "translucent"
+}

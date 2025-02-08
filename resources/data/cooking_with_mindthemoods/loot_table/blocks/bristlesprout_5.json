@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cooking_with_mindthemoods:blocks/bristlesprout_5",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cooking_with_mindthemoods:bristlesprout_1",
+          "conditions": [
+            {
+              "block": "cooking_with_mindthemoods:bristlesprout_5",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

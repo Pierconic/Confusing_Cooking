@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "cooking_with_mindthemoods:ancient_cheese_wheel_item"
+    },
+    "title": {
+      "translate": "advancements.cheesey.title"
+    },
+    "description": {
+      "translate": "advancements.cheesey.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cheesey_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:end/kill_dragon"
+}

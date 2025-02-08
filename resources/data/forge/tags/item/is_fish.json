@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon",
+    "minecraft:dried_kelp",
+    "minecraft:cod",
+    "minecraft:salmon",
+    "cooking_with_mindthemoods:single_fish_sushi",
+    "cooking_with_mindthemoods:double_fish_sushi",
+    "cooking_with_mindthemoods:triple_fish_sushi"
+  ]
+}

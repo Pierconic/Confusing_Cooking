@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/beef_stew_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/beef_stew_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/beef_stew_texture"
+  },
+  "render_type": "solid"
+}

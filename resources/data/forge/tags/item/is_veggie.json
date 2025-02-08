@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:baked_potato",
+    "minecraft:beetroot",
+    "minecraft:sea_pickle",
+    "cooking_with_mindthemoods:corn",
+    "cooking_with_mindthemoods:corn_cob",
+    "cooking_with_mindthemoods:single_veggie_sushi",
+    "cooking_with_mindthemoods:double_veggie_sushi",
+    "cooking_with_mindthemoods:tripple_veggie_sushi"
+  ]
+}

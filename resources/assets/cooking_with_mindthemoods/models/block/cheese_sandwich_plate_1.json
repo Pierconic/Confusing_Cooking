@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/sandwich_model_cheese_1",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/sandwich_texture_cheese",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/sandwich_texture_cheese"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cooking_with_mindthemoods:block/bristlesprout2",
+    "particle": "cooking_with_mindthemoods:block/bristlesprout1"
+  },
+  "render_type": "cutout"
+}

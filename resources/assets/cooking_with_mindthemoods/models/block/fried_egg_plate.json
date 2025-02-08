@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/fried_egg_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/fried_egg_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/fried_egg_texture"
+  },
+  "render_type": "solid"
+}

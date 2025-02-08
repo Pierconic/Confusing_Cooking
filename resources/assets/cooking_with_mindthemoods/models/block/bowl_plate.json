@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/bowl_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/bowl_texture",
+    "particle": "cooking_with_mindthemoods:block/bowl_texture",
+    "missing": "cooking_with_mindthemoods:block/bowl_texture"
+  },
+  "render_type": "solid"
+}

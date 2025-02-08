@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "swamp",
+  "features": "cooking_with_mindthemoods:youngricestructure_feature",
+  "step": "vegetal_decoration"
+}

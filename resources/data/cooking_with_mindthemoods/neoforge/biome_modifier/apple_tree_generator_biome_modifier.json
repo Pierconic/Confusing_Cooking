@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "forest",
+  "features": "cooking_with_mindthemoods:apple_tree_generator",
+  "step": "top_layer_modification"
+}

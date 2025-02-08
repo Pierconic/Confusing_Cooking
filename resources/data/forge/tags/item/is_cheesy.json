@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "cooking_with_mindthemoods:cheese",
+    "cooking_with_mindthemoods:aged_cheese",
+    "cooking_with_mindthemoods:ancient_cheese",
+    "cooking_with_mindthemoods:cheese_wheel_item",
+    "cooking_with_mindthemoods:aged_cheese_wheel_item",
+    "cooking_with_mindthemoods:ancient_cheese_wheel_item",
+    "cooking_with_mindthemoods:moldy_cheese",
+    "cooking_with_mindthemoods:moldy_cheese_wheel_item",
+    "cooking_with_mindthemoods:cheese_bucket"
+  ]
+}

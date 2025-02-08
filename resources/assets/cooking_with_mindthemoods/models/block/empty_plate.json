@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/aaaplate",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/plate_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "0": "cooking_with_mindthemoods:block/plate_texture"
+  },
+  "render_type": "solid"
+}

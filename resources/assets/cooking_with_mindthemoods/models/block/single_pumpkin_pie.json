@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/pumpkin_pie",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/pumpkin_pie",
+    "particle": "cooking_with_mindthemoods:block/pumpkin_pie",
+    "0": "cooking_with_mindthemoods:block/pumpkin_pie"
+  },
+  "render_type": "solid"
+}

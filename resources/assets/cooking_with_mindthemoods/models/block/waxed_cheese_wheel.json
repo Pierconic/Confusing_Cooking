@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/cheese",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/cheesemapping",
+    "particle": "cooking_with_mindthemoods:block/cheese1",
+    "0": "cooking_with_mindthemoods:block/cheesemapping"
+  },
+  "render_type": "solid"
+}

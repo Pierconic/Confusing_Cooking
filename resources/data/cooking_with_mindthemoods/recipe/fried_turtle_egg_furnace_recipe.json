@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 140,
+  "ingredient": {
+    "item": "minecraft:turtle_egg"
+  },
+  "result": {
+    "id": "cooking_with_mindthemoods:fried_turtle_egg"
+  }
+}

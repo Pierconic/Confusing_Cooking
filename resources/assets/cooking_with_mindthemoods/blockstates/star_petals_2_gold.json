@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cooking_with_mindthemoods:block/star_petals_2_gold"
+    },
+    "facing=east": {
+      "model": "cooking_with_mindthemoods:block/star_petals_2_gold",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cooking_with_mindthemoods:block/star_petals_2_gold",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cooking_with_mindthemoods:block/star_petals_2_gold",
+      "y": 270
+    }
+  }
+}

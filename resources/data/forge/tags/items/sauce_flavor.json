@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cooked_beef",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_chicken",
+    "cooking_with_mindthemoods:chicken_dinner",
+    "cooking_with_mindthemoods:fiery_filet",
+    "cooking_with_mindthemoods:meat_skewer",
+    "cooking_with_mindthemoods:fish_taco",
+    "cooking_with_mindthemoods:veggie_taco",
+    "cooking_with_mindthemoods:meat_taco"
+  ]
+}

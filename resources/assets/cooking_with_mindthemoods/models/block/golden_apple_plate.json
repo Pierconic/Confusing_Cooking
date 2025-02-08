@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/apple_model_golden",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/golden_apple_texture",
+    "particle": "cooking_with_mindthemoods:block/golden_apple_texture",
+    "missing": "cooking_with_mindthemoods:block/golden_apple_texture"
+  },
+  "render_type": "solid"
+}

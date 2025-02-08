@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/tortillaplate1",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/tortillatexture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "0": "cooking_with_mindthemoods:block/tortillatexture"
+  },
+  "render_type": "solid"
+}

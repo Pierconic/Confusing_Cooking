@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cooking_with_mindthemoods:block/nibbled_chicken_dinner_plate"
+    },
+    "facing=east": {
+      "model": "cooking_with_mindthemoods:block/nibbled_chicken_dinner_plate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cooking_with_mindthemoods:block/nibbled_chicken_dinner_plate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cooking_with_mindthemoods:block/nibbled_chicken_dinner_plate",
+      "y": 270
+    }
+  }
+}

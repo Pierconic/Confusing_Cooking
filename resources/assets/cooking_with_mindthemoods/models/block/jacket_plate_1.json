@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/jacket_model_1",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/jacket_texture_1",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/jacket_texture_1"
+  },
+  "render_type": "solid"
+}

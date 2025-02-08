@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cooking_with_mindthemoods:cheese"
+    },
+    {
+      "item": "cooking_with_mindthemoods:cheese"
+    },
+    {
+      "item": "cooking_with_mindthemoods:cheese"
+    },
+    {
+      "item": "cooking_with_mindthemoods:cheese"
+    }
+  ],
+  "result": {
+    "id": "cooking_with_mindthemoods:cheese_wheel_item",
+    "count": 1
+  }
+}

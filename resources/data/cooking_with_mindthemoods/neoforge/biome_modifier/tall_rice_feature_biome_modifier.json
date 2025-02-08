@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "swamp",
+    "mangrove_swamp"
+  ],
+  "features": "cooking_with_mindthemoods:tall_rice_feature",
+  "step": "vegetal_decoration"
+}

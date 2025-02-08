@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cooking_with_mindthemoods:block/shiny_melon_plate_2"
+    },
+    "facing=east": {
+      "model": "cooking_with_mindthemoods:block/shiny_melon_plate_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cooking_with_mindthemoods:block/shiny_melon_plate_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cooking_with_mindthemoods:block/shiny_melon_plate_2",
+      "y": 270
+    }
+  }
+}

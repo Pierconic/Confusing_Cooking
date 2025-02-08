@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cooking_with_mindthemoods:block/pitcherplant_spent"
+    },
+    "half=lower": {
+      "model": "cooking_with_mindthemoods:block/pitcherplant_spent_bottom"
+    }
+  }
+}

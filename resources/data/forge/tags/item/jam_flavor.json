@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bread",
+    "minecraft:pumpkin_pie",
+    "minecraft:cookie",
+    "cooking_with_mindthemoods:carrot_bread",
+    "cooking_with_mindthemoods:carrot_bread_deluxe",
+    "cooking_with_mindthemoods:slightly_chocolate_bread",
+    "cooking_with_mindthemoods:super_chocolate_bread",
+    "cooking_with_mindthemoods:chocolate",
+    "cooking_with_mindthemoods:whole_grain_bread",
+    "cooking_with_mindthemoods:corn_tortilla",
+    "cooking_with_mindthemoods:cornbread"
+  ]
+}

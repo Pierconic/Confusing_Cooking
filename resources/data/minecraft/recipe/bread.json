@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:egg"
+    },
+    "b": {
+      "item": "minecraft:wheat"
+    },
+    "c": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "id": "minecraft:bread",
+    "count": 2
+  }
+}

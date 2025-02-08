@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/tart",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/melontart",
+    "particle": "cooking_with_mindthemoods:block/watermelontart",
+    "0": "cooking_with_mindthemoods:block/melontart"
+  },
+  "render_type": "solid"
+}

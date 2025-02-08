@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cooking_with_mindthemoods:block/cookingtablebottom",
+    "up": "cooking_with_mindthemoods:block/cookingtabletop",
+    "north": "cooking_with_mindthemoods:block/cookingtableside1",
+    "east": "cooking_with_mindthemoods:block/cookingtableside2",
+    "south": "cooking_with_mindthemoods:block/cookingtableside1",
+    "west": "cooking_with_mindthemoods:block/cookingtableside2",
+    "particle": "cooking_with_mindthemoods:block/cookingtablebottom"
+  },
+  "render_type": "solid"
+}

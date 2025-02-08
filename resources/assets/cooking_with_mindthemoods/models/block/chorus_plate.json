@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/chorus_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/chorus_texture",
+    "particle": "cooking_with_mindthemoods:block/chorus_texture",
+    "missing": "cooking_with_mindthemoods:block/chorus_texture"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "flower_forest",
+    "sparse_jungle"
+  ],
+  "features": "cooking_with_mindthemoods:apple_bush",
+  "step": "surface_structures"
+}

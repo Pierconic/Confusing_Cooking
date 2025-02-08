@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/carrot_model_2_golden",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/golden_carrot_texture",
+    "particle": "cooking_with_mindthemoods:block/golden_carrot_texture",
+    "missing": "cooking_with_mindthemoods:block/golden_carrot_texture"
+  },
+  "render_type": "solid"
+}

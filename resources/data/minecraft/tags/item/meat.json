@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "cooking_with_mindthemoods:rotten_taco",
+    "cooking_with_mindthemoods:beef_stew",
+    "cooking_with_mindthemoods:extremely_rotten_sandwich",
+    "cooking_with_mindthemoods:rotten_sandwich",
+    "cooking_with_mindthemoods:super_fish_sandwich",
+    "cooking_with_mindthemoods:fish_sandwich",
+    "cooking_with_mindthemoods:super_veggie_sandwich",
+    "cooking_with_mindthemoods:veggie_sandwich",
+    "cooking_with_mindthemoods:super_meat_sandwich",
+    "cooking_with_mindthemoods:meat_sandwich",
+    "cooking_with_mindthemoods:extremelystickybread"
+  ]
+}

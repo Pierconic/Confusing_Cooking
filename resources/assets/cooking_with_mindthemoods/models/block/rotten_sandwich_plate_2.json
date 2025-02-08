@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/sandwich_model_rotten_2",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/sandwich_texture_rotten",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/sandwich_texture_rotten"
+  },
+  "render_type": "solid"
+}

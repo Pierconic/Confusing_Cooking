@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/sticky_rice_model_5",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/sticky_rice_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/sticky_rice_texture"
+  },
+  "render_type": "solid"
+}

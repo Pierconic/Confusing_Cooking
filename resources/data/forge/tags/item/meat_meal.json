@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cooking_with_mindthemoods:meat_sandwich",
+    "cooking_with_mindthemoods:super_meat_sandwich",
+    "cooking_with_mindthemoods:meat_skewer",
+    "cooking_with_mindthemoods:beef_stew",
+    "cooking_with_mindthemoods:fiery_filet",
+    "cooking_with_mindthemoods:chicken_dinner",
+    "cooking_with_mindthemoods:meat_taco"
+  ]
+}

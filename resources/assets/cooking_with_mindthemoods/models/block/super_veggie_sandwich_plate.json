@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/super_veggie_sandwich_model",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/super_veggie_sandwich_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/super_veggie_sandwich_texture"
+  },
+  "render_type": "solid"
+}

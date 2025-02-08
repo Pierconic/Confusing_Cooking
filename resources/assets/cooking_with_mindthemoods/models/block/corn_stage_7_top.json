@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cooking_with_mindthemoods:block/cornplantstage6upper",
+    "particle": "cooking_with_mindthemoods:block/cornplantstage6upper"
+  },
+  "render_type": "cutout_mipped"
+}

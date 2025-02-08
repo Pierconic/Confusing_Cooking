@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/sus_stew_sparkley",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/sparkly_stew_plate",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/sparkly_stew_plate"
+  },
+  "render_type": "solid"
+}

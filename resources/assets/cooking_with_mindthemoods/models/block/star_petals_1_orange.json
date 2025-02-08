@@ -1,0 +1,11 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/star_petals_1o",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/starpetalorangetop1",
+    "particle": "cooking_with_mindthemoods:block/starpetalorangetop1",
+    "0": "cooking_with_mindthemoods:block/starpetalstem",
+    "1": "cooking_with_mindthemoods:block/starpetalorangemiddle2",
+    "2": "cooking_with_mindthemoods:block/starpetalorangetop1"
+  },
+  "render_type": "cutout_mipped"
+}

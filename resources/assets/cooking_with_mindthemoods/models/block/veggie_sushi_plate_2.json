@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/veggie_sushi_model_2",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/veggie_sushi_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/veggie_sushi_texture"
+  },
+  "render_type": "solid"
+}

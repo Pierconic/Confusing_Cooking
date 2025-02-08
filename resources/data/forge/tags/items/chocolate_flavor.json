@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cooking_with_mindthemoods:stickybread",
+    "cooking_with_mindthemoods:extremelystickybread",
+    "minecraft:cookie",
+    "minecraft:pumpkin_pie",
+    "cooking_with_mindthemoods:sweetbread",
+    "cooking_with_mindthemoods:extrasweetbread",
+    "cooking_with_mindthemoods:hard_candy"
+  ]
+}

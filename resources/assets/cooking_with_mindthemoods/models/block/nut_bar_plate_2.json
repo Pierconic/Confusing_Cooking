@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/nut_bar_model_2",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/nut_bar_texture",
+    "particle": "cooking_with_mindthemoods:block/plate_texture",
+    "missing": "cooking_with_mindthemoods:block/nut_bar_texture"
+  },
+  "render_type": "solid"
+}

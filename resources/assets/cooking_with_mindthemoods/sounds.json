@@ -1,0 +1,74 @@
+{
+  "foodplace": {
+    "subtitle": "subtitles.foodplace",
+    "sounds": [
+      {
+        "name": "cooking_with_mindthemoods:placeporcelain3",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:placeporcelain2",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:placeporcelain1",
+        "stream": false
+      }
+    ]
+  },
+  "porcelainplaced": {
+    "subtitle": "subtitles.porcelainplaced",
+    "sounds": [
+      {
+        "name": "cooking_with_mindthemoods:placeporcelain3",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:placeporcelain2",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:placeporcelain1",
+        "stream": false
+      }
+    ]
+  },
+  "plateshatter": {
+    "subtitle": "subtitles.plateshatter",
+    "sounds": [
+      {
+        "name": "cooking_with_mindthemoods:porcelainbreak4",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:porcelainbreak3",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:porcelainbreak2",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:porcelainbreak1",
+        "stream": false
+      }
+    ]
+  },
+  "platestep": {
+    "subtitle": "subtitles.platestep",
+    "sounds": [
+      {
+        "name": "cooking_with_mindthemoods:porcelainstep3",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:porcelainstep2",
+        "stream": false
+      },
+      {
+        "name": "cooking_with_mindthemoods:porcelainstep1",
+        "stream": false
+      }
+    ]
+  }
+}

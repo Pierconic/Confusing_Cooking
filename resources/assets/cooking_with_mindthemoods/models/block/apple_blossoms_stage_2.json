@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/appleblossomsstage1",
+    "particle": "cooking_with_mindthemoods:block/painstakinglerecreatedoakleaftexture"
+  }
+}

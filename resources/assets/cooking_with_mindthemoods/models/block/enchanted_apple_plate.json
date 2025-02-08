@@ -1,0 +1,9 @@
+{
+  "parent": "cooking_with_mindthemoods:custom/apple_model_enchanted",
+  "textures": {
+    "all": "cooking_with_mindthemoods:block/enchantedappletexture",
+    "particle": "cooking_with_mindthemoods:block/enchantedappletexture",
+    "missing": "cooking_with_mindthemoods:block/enchantedappletexture"
+  },
+  "render_type": "solid"
+}

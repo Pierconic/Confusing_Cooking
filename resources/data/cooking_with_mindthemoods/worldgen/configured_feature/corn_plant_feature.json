@@ -1,0 +1,9 @@
+{
+  "type": "cooking_with_mindthemoods:corn_plant_feature",
+  "config": {
+    "structure": "cooking_with_mindthemoods:corn_plant",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block"
+  }
+}
